@@ -9,7 +9,7 @@ const database = [
    },
    {
       username: "Jeff",
-      password: "ringo",
+      password: "777",
    },
    {
       username: "Tom",
